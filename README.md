@@ -2,6 +2,7 @@
 
 ## Introduction
 Python-Arcade-Animated-Sprites is a simple implementation of animated sprites using the Python Arcade library.
+![Animated Sprite Example](https://github.com/Capacap/Python-Arcade-Animated-Sprites/blob/main/python-animated-sprites-demo.gif)
 
 ## Installation
 1. **Clone the repository**:
